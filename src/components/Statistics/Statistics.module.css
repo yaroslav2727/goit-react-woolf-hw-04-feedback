@@ -1,0 +1,39 @@
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgb(107, 107, 107);
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.options {
+  margin: 0 auto 12px;
+  width: 200px;
+  border: 1px solid black;
+}
+
+.text {
+  text-align: center;
+  margin: 4px;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.good {
+  color: rgb(6, 105, 6);
+}
+
+.neutral {
+  color: rgb(124, 124, 7);
+}
+
+.bad {
+  color: rgb(110, 10, 10);
+}
+
+.total {
+  text-decoration: underline;
+}
+
+
